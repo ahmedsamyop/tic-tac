@@ -1,2 +1,3 @@
 # tic-tac
-Tic-Tac game created with HTML, CSS and JS
+
+Tic Tac Toe Game created by HTML, CSS and JavaScript
